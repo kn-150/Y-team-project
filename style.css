@@ -1,0 +1,20 @@
+/* リセットする用 */
+* {
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  color: #000;
+}
+
+/* PC・SP共通用 */
+
+
+
+
+/* PC用 */
+@media screen and (min-width: 769px) {}
+
+
+/* SP用 */
+@media screen and (max-width: 768px) {}
